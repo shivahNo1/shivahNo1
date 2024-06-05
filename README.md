@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Data Engineering @GUVI IIT madras**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shivahNo1](https://github.com/shivahNo1)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/shivahNo1)
 
 - 📫 How to reach me **shivashankaranofficial@gmail.com**
 
-- 📄 Know about my experiences [aiapply.co/r/66608ce777f32](aiapply.co/r/66608ce777f32)
+- 📄 Know about my experiences [Resume](https://shivashankaranresume.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
