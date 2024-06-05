@@ -1,6 +1,7 @@
+![MasterHead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)
 <h1 align="center">Hi 👋, I'm Shiva Shankaran</h1>
 <h3 align="center">Aspiring Data Enthusiast with Proficient Analytical Skills</h3>
-<img align="right" alt="Coding" width="300" src="https://i.giphy.com/3oKIPEqDGUULpEU0aQ.webp">
+<img align="right" alt="Coding" width="350" src="https://assets-global.website-files.com/5c19020c997c25514d17d86f/614b7e249dbe1c69fad3a0f5_Analytics.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivahno1&label=Profile%20views&color=0e75b6&style=flat" alt="shivahno1" /> </p>
 
