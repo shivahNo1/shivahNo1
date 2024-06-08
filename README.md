@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shivashankaranofficial@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://shivashankaranresume.tiiny.site)
+- 📄 Know about my experiences [Resume](https://shivashankaran-resume.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
